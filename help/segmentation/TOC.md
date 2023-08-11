@@ -24,9 +24,11 @@ feature: Segments
     - [Streaming segmentation](api/streaming-segmentation.md)
 - Segmentation UI {#ui}
     - [Overview](ui/overview.md)
+    - [Audience dashboard](ui/audience-dashboard.md)
     - [Audience Composition](ui/audience-composition.md)
-    - [Segment dashboard](ui/segment-dashboard.md)
     - [Segment Builder](ui/segment-builder.md)
+    - [Look-Alike Audiences](ui/lookalike-audiences.md)
+    - [Prospect audiences](ui/prospect-audience.md)
     - [Edge segmentation](ui/edge-segmentation.md)
     - [Streaming segmentation](ui/streaming-segmentation.md)
     - [Streaming segmentation (Video)](video/streaming-segmentation-overview.md)
