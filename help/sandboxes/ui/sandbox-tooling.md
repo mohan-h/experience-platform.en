@@ -1,10 +1,8 @@
 ---
 title: Sandboxes Tooling
 description: Seamlessly export and import Sandbox configurations between sandboxes.
-hide: true
-hidefromtoc: true
+exl-id: f1199ab7-11bf-43d9-ab86-15974687d182
 ---
-
 # [!BADGE Beta] Sandbox tooling
 
 >[!IMPORTANT]

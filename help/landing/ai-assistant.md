@@ -4,6 +4,7 @@ description: Learn how to use the AI Assistant to navigate and understand Experi
 badge: Alpha
 hide: true
 hidefromtoc: true
+exl-id: 8be1c222-3ccd-4a41-978e-33ac9b730f8c
 ---
 # AI Assistant for Adobe Experience Platform
 
@@ -157,7 +158,9 @@ For usage data queries, answers may not reflect the current state of the UI. The
 
 You will need to log into a sandbox to inquire about specific data related to objects like schemas, datasets, attributes, destinations and segments.
 
-+++Select for a list of supported data usage questions
+### Supported data usage questions
+
++++Select to view a list of supported data usage questions
 
 The following is a list of currently supported data usage questions grouped by domain. 
 
@@ -278,5 +281,3 @@ Read the table below for examples:
 | What is my biggest segment? | What is my biggest segment? Using data. | Explicitly tell the AI Assistant that you want the answer to be based on data. |
 | What is my biggest segment? | List my biggest segment. | There are instances where a "what..." question can be mistaken for a documentation-based question. Using a command like "list" is a stronger indicator that you are asking a question with data in context. |
 | How many datasets do I have? | Count my datasets. | The original question works for segments, but it may not work with datasets. |
-
-
