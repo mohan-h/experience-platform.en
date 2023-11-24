@@ -1,6 +1,8 @@
 ---
 title: Real-Time CDP Guardrails
 description: Learn about the data guardrails across the various services and areas of Real-Time CDP.
+feature: Guardrails, Data Management, Data Ingestion, Data Export
+exl-id: 377499b4-5707-4d50-94e3-02f88ad5bf2c
 ---
 # Real-Time CDP Guardrails
 
@@ -36,8 +38,8 @@ Additionally, refer to the product description links below for licensing and ent
 
 * [All Adobe product descriptions](https://helpx.adobe.com/legal/product-descriptions.html)
 * [Real-Time Customer Data Platform (B2C Edition - Prime and Ultimate Packages)](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-b2c-edition-prime-and-ultimate-packages.html)
-* [Real-Time Customer Data Platform (B2P - Prime and Ultimate Packages)](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-b2p-edition-prime-and-ultimate-packages.html)
-* [Real-Time Customer Data Platform (B2B - Prime and Ultimate Packages)](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-b2b-edition-prime-and-ultimate-packages.html)
+* [Real-Time Customer Data Platform (B2P Edition - Prime and Ultimate Packages)](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-b2p-edition-prime-and-ultimate-packages.html)
+* [Real-Time Customer Data Platform (B2B Edition - Prime and Ultimate Packages)](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-b2b-edition-prime-and-ultimate-packages.html)
 
 ## Next steps
 
